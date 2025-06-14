@@ -3,11 +3,10 @@ To-Do List App (PHP + MySQL)
 
 ##Fitur
 
-Tambah tugas
-Edit tugas
-Tandai tugas selesai
-Hapus tugas
-
+1. Tambah tugas
+2. Edit tugas
+3. Tandai tugas selesai
+4. Hapus tugas
 ##Struktur Folder
 
 'index3.php'-halaman utama
